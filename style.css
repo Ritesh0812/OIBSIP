@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("https://github.com/Ritesh0812/OIBSIP/blob/b4e8acd13e49700f47d905cde1fbc60ac38923d5/banner.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
